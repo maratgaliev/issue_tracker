@@ -1,0 +1,13 @@
+en:
+  errors:
+    base: try again later
+    users:
+      sign_in:
+        base: invalid email or password
+    issues:
+      not_author: you are not an author
+      not_editable: you cannot modify this issue
+      not_assignable: you cannot assign this issue
+      not_unassignable: you cannot unassign this issue
+      not_changeable: you cannot change this issue
+

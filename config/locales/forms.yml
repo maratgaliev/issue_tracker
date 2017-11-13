@@ -1,0 +1,5 @@
+en:
+  errors:
+    email?: is not email
+    login?: has already been taken
+    password?: must be at least 6 characters
